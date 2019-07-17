@@ -12,6 +12,7 @@
 		D04CB42822DD1BDE00E87EF0 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D04CB42622DD1BDE00E87EF0 /* Main.storyboard */; };
 		D04CB42A22DD1BDF00E87EF0 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D04CB42922DD1BDF00E87EF0 /* Assets.xcassets */; };
 		D04CB42D22DD1BDF00E87EF0 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D04CB42B22DD1BDF00E87EF0 /* LaunchScreen.storyboard */; };
+		D0D4C10322DFB84300890604 /* App Icon Dice Game.png in Resources */ = {isa = PBXBuildFile; fileRef = D0D4C10222DFB84300890604 /* App Icon Dice Game.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		D04CB42922DD1BDF00E87EF0 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		D04CB42C22DD1BDF00E87EF0 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		D04CB42E22DD1BDF00E87EF0 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		D0D4C10222DFB84300890604 /* App Icon Dice Game.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "App Icon Dice Game.png"; path = "../../SpurIQ Images/Dice/App Icon Dice Game.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,10 +58,11 @@
 			children = (
 				D04CB42222DD1BDE00E87EF0 /* AppDelegate.swift */,
 				D04CB42422DD1BDE00E87EF0 /* ViewController.swift */,
-				D04CB42622DD1BDE00E87EF0 /* Main.storyboard */,
 				D04CB42922DD1BDF00E87EF0 /* Assets.xcassets */,
+				D04CB42622DD1BDE00E87EF0 /* Main.storyboard */,
 				D04CB42B22DD1BDF00E87EF0 /* LaunchScreen.storyboard */,
 				D04CB42E22DD1BDF00E87EF0 /* Info.plist */,
+				D0D4C10222DFB84300890604 /* App Icon Dice Game.png */,
 			);
 			path = "MyFirstSwiftApp(project)";
 			sourceTree = "<group>";
@@ -124,6 +127,7 @@
 			files = (
 				D04CB42D22DD1BDF00E87EF0 /* LaunchScreen.storyboard in Resources */,
 				D04CB42A22DD1BDF00E87EF0 /* Assets.xcassets in Resources */,
+				D0D4C10322DFB84300890604 /* App Icon Dice Game.png in Resources */,
 				D04CB42822DD1BDE00E87EF0 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
